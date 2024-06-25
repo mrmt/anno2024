@@ -21,4 +21,7 @@ URL_WEST	=	'https://www.google.com/maps/d/viewer?hl=ja&mid=1vta483ns58fvyi8oWecY
 	@echo -n pins to go
 	@grep icon-1899-0288D1-labelson $@ | wc -l
 
+clean:
+	rm -f *.kml *.csv.kmz
+
 # EOF

@@ -45,6 +45,8 @@
   - Xcodeのコマンドラインツールに含まれている
   - Xcode一式は巨大なので, Homebrewに含まれているmakeのみを `brew install make` でインストールするのでもよいだろう
 - 本リポジトリを手元に `git clone` する
+- `local.mk.sample` をコピーして `local.mk` ファイルを作る
+- `targets.mk.sample` をコピーして `targets.mk` ファイルを作る
 
 # 使い方
 

@@ -1,3 +1,5 @@
 *.csv.kmz
 *.kml
+local.mk
+targets.mk
 .DS_Store

@@ -31,8 +31,7 @@
 - macOS
   - Sonoma 14.5など適切に新しいもの
   - 必要とする以下のコマンド群が動くなら他のOSでも構わない
-- [Homebrew](https://brew.sh/ja/)
-- [xmlstarlet](https://xmlstar.sourceforge.net/)
+- [xmlstarlet](https://xmlstar.sourceforge.net/), およびこれをインストールするために [Homebrew](https://brew.sh/ja/)
 - make
 - git
 
